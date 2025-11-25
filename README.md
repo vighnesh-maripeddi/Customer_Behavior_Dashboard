@@ -3,6 +3,7 @@
 This project focuses on understanding customer purchasing patterns, retention behavior, returns, and regional performance using a complete analytics pipeline.
 
 I used Python for cleaning, SQL for advanced analysis, and Power BI for visualization to turn raw customer data into clear business insights and actionable solutions.
+<br>
 
 ### 🚀 Project Workflow
 <br>
@@ -59,6 +60,8 @@ Key KPIs
 
 The dashboard helps decision-makers explore the data with filters and dynamic charts.
 
+<br>
+
 ## 🔍 Key Insights
 <br>
 
@@ -91,6 +94,8 @@ South & East see low sales and low engagement.
 High spending was not translating into conversions.
 
 CAC (Customer Acquisition Cost) higher in slow regions.
+
+<br>
 
 ## 🛠️ Recommended Solutions
 <br>
@@ -145,28 +150,6 @@ Visualization	Power BI
 Documentation & Workflow	GitHub, Jupyter Notebook
 
 <br>
-
-## 📁 Project Structure
-<br>
-
-Customer-Behavior-Analysis/
-│
-├── data/
-│   ├── raw_dataset.csv
-│   ├── cleaned_dataset.csv
-│
-├── notebooks/
-│   ├── cleaning.ipynb
-│
-├── sql/
-│   ├── analysis.sql
-│
-├── dashboard/
-│   ├── powerbi_dashboard.pbix
-│
-├── README.md
-
-
 
 🖼 Dashboard Preview
 
