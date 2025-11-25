@@ -1,4 +1,4 @@
-<img width="1320" height="723" alt="Screenshot 2025-11-25 170712" src="https://github.com/user-attachments/assets/44c9d1b3-b69e-45ce-8113-99c6a5983b52" />## 📊 Customer Behavior Analysis – End-to-End Data Analytics Project
+## 📊 Customer Behavior Analysis – End-to-End Data Analytics Project
 
 This project focuses on understanding customer purchasing patterns, retention behavior, returns, and regional performance using a complete analytics pipeline.
 
@@ -62,7 +62,7 @@ The dashboard helps decision-makers explore the data with filters and dynamic ch
 
 <br>
 
-## 🔍 Key Insights
+### 🔍 Key Insights
 <br>
 
 1️⃣ Customer Retention is Low
@@ -97,7 +97,7 @@ CAC (Customer Acquisition Cost) higher in slow regions.
 
 <br>
 
-## 🛠️ Recommended Solutions
+### 🛠️ Recommended Solutions
 <br>
 
 ✔ Improve Customer Retention
@@ -140,7 +140,7 @@ Use analytics dashboards to monitor monthly results.
 
 <br>
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 <br>
 Phase	Tools Used:-
 
@@ -151,7 +151,7 @@ Documentation & Workflow	GitHub, Jupyter Notebook
 
 <br>
 
-🖼 Dashboard Preview
+### 🖼 Dashboard Preview
 
 ![Customer Dashboard](<img width="1320" height="723" alt="Screenshot 2025-11-25 170712" src="https://github.com/user-attachments/assets/b1d5433d-a737-4e62-825c-e0088908735c" />
 )
@@ -199,7 +199,8 @@ Recommending practical solutions
 Understanding customer behavior patterns
 
 <br>
-🎯 Final Outcome
+
+### 🎯 Final Outcome
 
 This project delivers:
 
