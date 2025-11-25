@@ -1,4 +1,4 @@
-## 📊 Customer Behavior Analysis – End-to-End Data Analytics Project
+<img width="1320" height="723" alt="Screenshot 2025-11-25 170712" src="https://github.com/user-attachments/assets/44c9d1b3-b69e-45ce-8113-99c6a5983b52" />## 📊 Customer Behavior Analysis – End-to-End Data Analytics Project
 
 This project focuses on understanding customer purchasing patterns, retention behavior, returns, and regional performance using a complete analytics pipeline.
 
@@ -153,8 +153,52 @@ Documentation & Workflow	GitHub, Jupyter Notebook
 
 🖼 Dashboard Preview
 
-![Customer Dashboard](<img width="1320" height="723" alt="Screenshot 2025-11-25 170712" src="https://github.com/user-attachments/assets/d03ef5b9-ed58-4045-b62b-641227277d53" />)
+![Customer Dashboard](<img width="1320" height="723" alt="Screenshot 2025-11-25 170712" src="https://github.com/user-attachments/assets/b1d5433d-a737-4e62-825c-e0088908735c" />
+)
+<br>
+ What I Learned
 
+🔹This project helped me improve skills across the entire analytics pipeline:
+
+1. Python
+
+Data cleaning techniques
+
+Handling missing & inconsistent values
+
+EDA on real datasets
+
+2. SQL
+
+Writing advanced queries
+
+Using joins, grouping, subqueries
+
+Performing segmentation & trend analysis
+
+Creating KPI-based insights
+
+3. Power BI
+
+Data modeling
+
+DAX basics
+
+Designing clean dashboards
+
+Storytelling with data
+
+4. Analytics Thinking
+
+How to translate data into business insights
+
+Identifying high-impact problems
+
+Recommending practical solutions
+
+Understanding customer behavior patterns
+
+<br>
 🎯 Final Outcome
 
 This project delivers:
